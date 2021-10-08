@@ -1,5 +1,7 @@
 # Papers
-Jalar carpeta papers al terminal
+En Mac: Jalar carpeta papers al terminal
+En Windows: Click derecho en carpeta "assets" y seleccionar "Git Bash Here"
+
 1. git add -A 
 2. git commit -m "message"
 3. git push origin main
